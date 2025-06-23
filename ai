@@ -1,0 +1,39 @@
+GOOD PROMPTS:
+
+Create a story about climate change, with 2 slides. In slide 1, called "intro" use the layer temperature, in the slide 2 "The context" use the layer humidity. OK
+
+Create a story about climate change over rome, with 2 slides. In slide 1, called "intro" use the google 3d tiles zooming over rome and in slide 2 "The context" use layer temperature compared to humidity layer. Please add descriptions in the slides. OK
+
+create a new story about cities in the world: I want slides for Rome, Paris, New York, barcelona. Please add descriptions in the slides and use google 3d tiles zoom over the cities. OK
+
+create a story about colosseum. use google 3d tiles, create 3 slides: slide 1 zoom over colosseum and describe the history, slide 2 zoom over Fori Imperiali and describe the location and slide 3 over Piazza Venezia OK
+
+create a story about climate change with 1 slide, using historical temperature over rome OK
+
+
+---------------------------------------------------- 
+create a story about climate change.
+
+in slide 1 use a google 3d tiles over rome, zoom over colosseum and add a long description of the history of rome
+in slide 2 use a temperature forecast with globe rotation
+in slide 3 use a compare between historical temperature and historical humidity over rome
+in slide 4 use a sentinel-2 cloudless baselayer over a cesium world terrain and add a carbon monoxide forecast
+in slide 5 visualize global dust forecast over sentinel-2 cloudless
+---------------------------------------------------- 
+
+create a story about sea ice thickness
+
+create a story about historical temperature in Vienna using 2 slides. in slide 1 called "Intro" zoom over Vienna using google 3d tiles and add a description of the Vienna's history. in slide 2 use a temperature layer over the Vienna Austria Center
+
+create a story about historical temperature over vienna. In slide 1 use google 3d tiles and zoom in. in slide 2 compare temperature with humidity. Please add long descriptions in the slides. 
+
+create a story using just 1 slide containing buildings and terrain 
+
+create a story using first 2 DT climate data you have. Create a slide for every layer.  
+
+create a story for the World Ocean 2025. Use sea surface and ocean data. add description on every slide. 
+
+create a story about methane forecast 
+create a story using terrain and buildings 
+
+
